@@ -91,7 +91,7 @@ We’re building infrastructure that developers can trust:
 ## Connect
 
 - Website: https://www.voult.dev/
-- GitHub Organization: https://github.com/Voult-dev
+- GitHub Organization: https://github.com/voult-dev
 
 ---
 
